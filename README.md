@@ -12,7 +12,7 @@ This project demonstrates a **production-grade ETL pipeline** using **Amazon EMR
  **Cost-efficient processing** with auto-scaling and performance tuning.  
 
 ## System Architecture
-![image alt](https://github.com/Vinay4348/EMR-for-data-engineers/blob/master/Architecture.png?raw=true)
+![image alt](https://github.com/Vinay4348/EMR-for-data-engineers/blob/main/assets/Architecture.png?raw=true)
 
 
 ---
